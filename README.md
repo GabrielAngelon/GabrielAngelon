@@ -2,7 +2,7 @@
 Olá! Sou o Gabriel e sou um entusiasta da tecnologia com uma paixão pelo desenvolvimento de sistemas. Meu caminho na área técnica começou com minha formação nos cursos técnicos do SENAI e da ETEC, onde adquiri uma base sólida em programação.
 
 - 👨‍🎓 **Estudante** de dois cursos técnicos - Senai (DS) - Etec Rosa (TI)
-- 🎮 Amante de **Jogos indie**
+- 🎮 Amante de **Jogos**
 - 💻 Atualmente focado em:
 <div style="display: inline_block">
   <a class="github-stats" href="https://github.com/GabrielAngelon/GabrielAngelon">
