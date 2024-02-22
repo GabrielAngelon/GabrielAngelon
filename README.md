@@ -1,5 +1,16 @@
 ## Meu nome é Gabriel Angelon 
 
+<div style="display: inline_block"><br>
+  <a class="github-stats" href="https://github.com/GabrielAngelon/GabrielAngelon">
+    <img align="center" style="margin-right: 100px;" src="https://github-readme-stats.vercel.app/api?username=GabrielAngelon&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars" />
+  </a>
+
+  <a class="github-stats" href="https://github.com/anuraghazra/convoychat">
+    <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAngelon&langs_count=5&theme=tokyonight&layout=compact" />
+  </a>
+ 
+</div> 
+
 ## Skills
 <div style="display: inline_block"><br>
       <img  align="left" alt="Java" height="50" width="49" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
