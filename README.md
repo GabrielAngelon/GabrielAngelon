@@ -1,6 +1,8 @@
-## Meu nome é Gabriel Angelon 
-
-<div style="display: inline_block"><br>
+### Meu nome é Gabriel Angelon 
+- 👨‍🎓 **Estudante** de dois cursos técnicos - Senai (DS) - Etec Rosa (TI)
+- 🎮 Amante de **Jogos indie**
+- 💻 Atualmente focado em:
+<div style="display: inline_block">
   <a class="github-stats" href="https://github.com/GabrielAngelon/GabrielAngelon">
     <img align="center" style="margin-right: 100px;" src="https://github-readme-stats.vercel.app/api?username=GabrielAngelon&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars" />
   </a>
