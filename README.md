@@ -1,7 +1,8 @@
 ## Meu nome é Gabriel Angelon 
 Olá! Sou o Gabriel e sou um entusiasta da tecnologia com uma paixão pelo desenvolvimento de sistemas. Meu caminho na área técnica começou com minha formação nos cursos técnicos do SENAI e da ETEC, onde adquiri uma base sólida em programação.
 
-- 👨‍🎓 **Estudante** de dois cursos técnicos - Senai (DS) - Etec Rosa (TI)
+- 👨‍🎓 **Estudante** de dois cursos - Senai (Eletricista eletroeletrônica) - Etec Rosa (Automação industrial)
+- 👨‍🎓 **Formado** em dois cursos - Senai (Desenvolvimento de sistemas) - Etec Rosa (Informatica)
 - 🎮 Amante de **Jogos**
 - 💻 Atualmente focado em:
 <div style="display: inline_block">
