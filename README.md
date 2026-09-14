@@ -1,20 +1,12 @@
 ## Meu nome é Gabriel Angelon 
 Olá! Sou o Gabriel e sou um entusiasta da tecnologia com uma paixão pelo desenvolvimento de sistemas. Meu caminho na área técnica começou com minha formação nos cursos técnicos do SENAI e da ETEC, onde adquiri uma base sólida em programação.
 
-- 👨‍🎓 **Estudante** de dois cursos - Senai (Eletricista eletroeletrônica) - Etec Rosa (Automação industrial)
-- 👨‍🎓 **Formado** em dois cursos - Senai (Desenvolvimento de sistemas) - Etec Rosa (Informatica)
+- 👨‍🎓 **Estudante** do curso - Senai (Eletricista eletroeletrônica)
+- 👨‍🎓 **Formado** em - Etec Rosa (Técnico Automação industrial)
+- 👨‍🎓 **Formado** em - Senai (Técnico Desenvolvimento de sistemas)
+- 👨‍🎓 **Formado** em - Etec Rosa (Técnico Informatica)
 - 🎮 Amante de **Jogos**
-- 💻 Atualmente focado em:
-<div style="display: inline_block">
-  <a class="github-stats" href="https://github.com/GabrielAngelon/GabrielAngelon">
-    <img align="center" style="margin-right: 100px;" src="https://github-readme-stats.vercel.app/api?username=GabrielAngelon&count_private=true&show_icons=true&theme=tokyonight&hide=issues,stars" />
-  </a>
-    <br>
-    <br>
-  <a class="github-stats" href="https://github.com/anuraghazra/convoychat">
-    <img align="center" style="margin-left: 100px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAngelon&langs_count=5&theme=tokyonight&layout=compact" />
-  </a>
- 
+
 </div> 
 
 ## Skills
